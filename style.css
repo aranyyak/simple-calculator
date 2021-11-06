@@ -1,0 +1,28 @@
+.col{
+    margin: 5px;
+}
+
+.main-display {
+    height: 50px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 8px;
+    padding: 5px;
+    text-align: right;
+}
+
+#main-display{
+    font-size: 35px;
+    font-weight: 600;
+    color: indigo;
+}
+
+#calc{
+    width: 250px;
+    padding: 20px;
+    height: 310px;
+    width: 220px;
+    margin-top: 100px;
+    background-color: mediumturquoise;
+    border-radius: 8px;
+}
